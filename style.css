@@ -1,0 +1,11 @@
+body{
+	background-color:grey ;
+}
+h1{ 
+	text-align: center; 
+	color: blue;
+}
+#comida { height: 100px; }
+p { text-align: justify; 
+	color: floralwhite;
+}
